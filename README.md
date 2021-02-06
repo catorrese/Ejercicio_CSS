@@ -1,2 +1,2 @@
-# Ejercicio_CSS
-Ejercicio de CSS para ISIS3710_2
+## Carlos Andrés Torres E.
+## 201815476
