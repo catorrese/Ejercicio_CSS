@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+h2.azul {
+  color: blue;
+}
+
+h2.naranja {
+  color: orange;
+}
+
+p {
+  text-align: center;
+}
+
+p.especial {
+  color: blue;
+  font-weight: bold;
+}
